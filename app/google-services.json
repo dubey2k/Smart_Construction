@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1012085991005",
+    "firebase_url": "https://smart-construction-d52c0.firebaseio.com",
+    "project_id": "smart-construction-d52c0",
+    "storage_bucket": "smart-construction-d52c0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1012085991005:android:6d0e6a6703a35b64498fb4",
+        "android_client_info": {
+          "package_name": "com.example.smartconstruction"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1012085991005-h4pesnvq25bk270sodjb5jqj356hevjc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.smartconstruction",
+            "certificate_hash": "476061108fbd7fd8958004f7886933d809e8cee3"
+          }
+        },
+        {
+          "client_id": "1012085991005-4trp2t2ksn1qods3cfk6486gafq7ce61.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlEVScUTWurjbSY_8-ajF2CLDQt3Y-2Pk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1012085991005-4trp2t2ksn1qods3cfk6486gafq7ce61.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

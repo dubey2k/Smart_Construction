@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:shownIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/Home_menu"
+            android:title="Home" />
+        <item
+            android:id="@+id/Order_menu"
+            android:title="Orders" />
+    </group>
+    <item android:title="Services">
+        <menu>
+            <item
+                android:id="@+id/Architecture"
+                android:title="Architecture"/>
+            <item
+                android:id="@+id/Plumber"
+                android:title="Plumber"/>
+            <item
+                android:id="@+id/Contractor"
+                android:title="Contractor"/>
+            <item
+                android:id="@+id/Electrician"
+                android:title="Electrician"/>
+            <item
+                android:id="@+id/Material_Supplier"
+                android:title="Material Supplier"/>
+        </menu>
+    </item>
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/email_menu"
+                android:title="Email" />
+            <item
+                android:id="@+id/website_menu"
+                android:title="Website" />
+        </menu>
+    </item>
+    <item
+        android:id="@+id/termsAndCondition"
+        android:title="Terms and Conditions" />
+</menu>

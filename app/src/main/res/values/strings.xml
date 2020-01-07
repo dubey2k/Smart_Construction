@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Smart Construction</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="terms_and_conditions_merger">Smart Construction  provides civil engineer , architecture , interior designor and other services . Our Privacy Policy helps explain your needs and desire . For example, we talk about what information we collect and how this affects you. We also explain the steps we take to protect your privacy
+ Smart construction  receives or collects information what you are looking for according to your search provide you Services.
+Information You Provide:
+Your Account Information. You provide your mobile phone number and your gmail account  to create a Smart construction account. You provide us the phone numbers in your mobile  address book on a regular basis, including those of both the users of our Services and your other contacts. You confirm you are authorized to provide us such numbers. You may also add other information to your account, such as a profile name, profile picture, and your previous work.\n
+You share your information as you use and communicate through our Services, and we share your information to help us operate, provide, improve, understand, customize, support, and market our Services.\n
+Account Information. Your location of work , your company name ,  contact  number, profile name and photo of your previous work and availability, and your name of services you provide.\n
+        Third-Party Providers. We work with third-party providers to help us operate, provide, improve, understand, customize, support, and market our Services. When we share information with third-party providers, we require them to use your information in accordance with our instructions and terms or with express permission from you.\n
+Third-Party Services. When you use third-party services that are integrated with our Services, they may receive information about what you share with them. For example, if you use a data backup service integrated with our Services (such as iCloud or Google Drive), they will receive information about what you share with them. If you interact with a third-party service linked through our Services, you may be providing information directly to such third party. Please note that when you use third-party services, their own terms and privacy policies will govern your use of those services.\n
+You are responsible for any delay that may be caused due to Your failure to check the Booking Confirmation or contact us immediately to correct the booking or order  delay.\n
+Area of Operation  means the area given by smart construction you have to work only those places or by diection of smart construction .\n
+ You must not smoke or consume any alcohol, tobacco or illicit substances in or near any site , misbehave with customer , act in violation of Applicable Laws, (acting reasonably) considers will risk the safety of you and our customer.\n
+Any work that is not given to you by us is consider as fraud.\n
+
+
+\nContact Us\n
+If you have questions about our Privacy Policy, please contact us.\n
+Smart Construction </string>
+
+    <string name="terms_and_conditions_customer">BY CLICKING ON THE “I ACCEPT” BUTTON, YOU ACKNOWLEDGE THAT YOU HAVE READ AND UNDERSTOOD THESE CUSTOMER TERMS (THESE “CUSTOMER TERMS”).\n
+PLEASE ENSURE THAT YOU READ AND UNDERSTAND ALL OF THESE CUSTOMER TERMS BEFORE YOU START USING THE APPLICATION, AS YOU WILL BE BOUND BY THESE CUSTOMER TERMS WHEN YOU CLICK “ACCEPT AND REGISTER”.
+IF YOU DO NOT AGREE WITH ANY OF THESE CUSTOMER TERMS, YOU MUST IMMEDIATELY CEASE ACCESSING AND USING THE APPLICATION AND THE SERVICES BEING PROVIDED UNDER THESE CUSTOMER TERMS. YOUR ACCEPTANCE OF THESE CUSTOMER TERMS WILL OPERATE AS A BINDING AGREEMENT BETWEEN YOU, OLA UK AND OLA NL IN RESPECT OF YOUR USE OF THE APPLICATION, THE BOOKING SERVICES AND SERVICES.\n
+        Third-Party Providers. We work with third-party providers to help us operate, provide, improve, understand, customize, support, and market our Services. When we share information with third-party providers, we require them to use your information in accordance with our instructions and terms or with express permission from you.\n
+Third-Party Services. When you use third-party services that are integrated with our Services, they may receive information about what you share with them. For example, if you use a data backup service integrated with our Services (such as iCloud or Google Drive), they will receive information about what you share with them. If you interact with a third-party service linked through our Services, you may be providing information directly to such third party. Please note that when you use third-party services, their own terms and privacy policies will govern your use of those services.\n
+\nBIG DATA BACKGROUND\nSmart Construction operates the Application and the Services. The Application inter alia contains a booking functionality which enables users to book through the Application. Smart Construction provides the Booking Services to enable You book appoiment on the Application whereas Smart Construction provides an online platform to facilitate user to find  construction related workers near you
+These Customer Terms apply to Your access to, and use of, the Application (whether through a computer, mobile phone or other electronic device), the Booking Services and the Services and all information, recommendations and other products and services provided to You on or through the Application.
+
+</string>
+</resources>

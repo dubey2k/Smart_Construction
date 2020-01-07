@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/View_ProfilePic"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:padding="14dp"
+        android:textSize="24sp"
+        android:text="View Profile Pic" />
+
+    <TextView
+        android:id="@+id/New_ProfilePic"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:padding="14dp"
+        android:textSize="24sp"
+        android:text="New Profile Pic" />
+
+    <TextView
+        android:id="@+id/Remove_pic"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:padding="14dp"
+        android:textSize="24sp"
+        android:text="Remove Profile Pic" />
+</LinearLayout>
